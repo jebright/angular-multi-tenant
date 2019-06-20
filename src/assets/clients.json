@@ -1,0 +1,22 @@
+{
+    "clients": [
+        {
+            "id": "ibm",
+            "name": "IBM",
+            "theme": "blue",
+            "website": "ibm.com"
+        },
+        {
+            "id": "angular",
+            "name": "Angular Framework",
+            "theme": "red",
+            "website": "angular.io"
+        },
+        {
+            "id": "google",
+            "name": "Google (alphabet)",
+            "theme": "orange",
+            "website": "google.com"
+        }
+    ]
+}
